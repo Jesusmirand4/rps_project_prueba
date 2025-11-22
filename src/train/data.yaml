@@ -1,0 +1,8 @@
+train: ../../data/train
+val: ../../data/valid
+
+names:
+  0: Piedra
+  1: Papel
+  2: Tijera
+
